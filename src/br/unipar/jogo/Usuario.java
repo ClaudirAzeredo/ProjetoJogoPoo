@@ -1,6 +1,6 @@
 package br.unipar.jogo;
 
-public class Usuario {
+public class Usuario extends JINGLE {
 
     private Integer IDUSUARIO;
 

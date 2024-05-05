@@ -1,6 +1,6 @@
 package br.unipar.jogo;
 
-public class MAPA {
+public class MAPA extends JINGLE {
 
     private Integer Cidade;
 
